@@ -1,0 +1,4 @@
+ДЗ - https://github.com/netology-code/py-homeworks-web/tree/new/2.2-asyncio
+API - https://swapi.dev/documentation#people
+
+БД: asyncio_hw
